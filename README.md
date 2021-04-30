@@ -7,6 +7,7 @@ Bumper Sumo Unity demosudur.
 * Oyun, tüm düşmanların elenmesi ve oyuncunun sağ kalması halinde veya oyuncunun elenmesi halinde bitmektedir.
 * Kamera, çarpmanın şiddetine göre sarsılmaktadır. Çarpma esnasında eylemsizlik sonucu oluşan hızlıca ileri gitme ve yavaşça eski pozisyona geri dönme simule edilmiştir.
 * Tüm kod yorumlarla açıklanmış ve Object-Oriented kurallarına bağlı kalınarak yazılmıştır. Ayrıca editörde düzenlenebilmesi için ayarlanmıştır.
+* Tüm kodları Script klasörü içinde bulabilirsiniz.
 
 İyi eğlenceler dilerim,  
 **Taha Kızmaz**
