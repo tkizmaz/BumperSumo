@@ -26,7 +26,7 @@ public class UIController : MonoBehaviour
         if (IsPlayerEliminated && !isGameOver)
         {
             //Set gameOverUI as active.
-            gameOverUI.SetActive(true); //Problem is here.
+            gameOverUI.SetActive(true);
             
             //Set loseText as active.
             loseText.SetActive(true);
