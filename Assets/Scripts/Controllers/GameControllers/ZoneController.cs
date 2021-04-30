@@ -17,7 +17,6 @@ public class ZoneController : MonoBehaviour
             DestroyCollision(collision.gameObject.name);
             //Destroy the object.
             Destroy(collision.gameObject);
-            Debug.Log("Collided");
 
         }
     }

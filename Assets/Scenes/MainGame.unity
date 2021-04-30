@@ -1891,7 +1891,6 @@ GameObject:
   m_Component:
   - component: {fileID: 2062681731}
   - component: {fileID: 2062681730}
-  - component: {fileID: 2062681732}
   - component: {fileID: 2062681733}
   - component: {fileID: 2062681734}
   m_Layer: 0
@@ -1938,19 +1937,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &2062681732
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2062681729}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 321b75f1fc6723d4baa2039f65c6b923, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  carCount: 4
 --- !u!114 &2062681733
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2187,7 +2173,7 @@ MonoBehaviour:
   steeringWheelRotation: 3
   cameraShake: {fileID: 963194229}
   crashMagnitudeDivider: 400
-  forceMultiplier: 1
+  forceMultiplier: 1.2
 --- !u!65 &919132147516942737
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3100,7 +3086,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2255372746157349079}
   m_LocalRotation: {x: -0, y: 0.99593693, z: -0, w: 0.090053186}
-  m_LocalPosition: {x: -23.984724, y: 9.53, z: 5.227986}
+  m_LocalPosition: {x: -23.984724, y: 9.56, z: 5.227986}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2255372746916820764}
@@ -3651,7 +3637,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2255372747013250655}
   m_LocalRotation: {x: -0, y: -0.060560074, z: -0, w: 0.99816453}
-  m_LocalPosition: {x: -20.801817, y: 9.53, z: -23.080069}
+  m_LocalPosition: {x: -20.801817, y: 9.56, z: -23.080069}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2255372746228691348}
@@ -3992,7 +3978,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2255372747385222676}
   m_LocalRotation: {x: -0, y: -0.7743049, z: -0, w: 0.6328126}
-  m_LocalPosition: {x: -8.091, y: 9.53, z: -6.27}
+  m_LocalPosition: {x: -8.091, y: 9.56, z: -6.27}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 2255372745458227679}

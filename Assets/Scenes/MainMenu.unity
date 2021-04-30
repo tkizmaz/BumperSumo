@@ -433,7 +433,7 @@ GameObject:
   - component: {fileID: 892945364}
   - component: {fileID: 892945363}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -668,7 +668,7 @@ GameObject:
   - component: {fileID: 1072304428}
   - component: {fileID: 1072304427}
   m_Layer: 5
-  m_Name: BumperCarsText
+  m_Name: BumperSumoText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -725,7 +725,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: BUMPER CARS
+  m_Text: BUMPER SUMO
 --- !u!222 &1072304428
 CanvasRenderer:
   m_ObjectHideFlags: 0
