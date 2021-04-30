@@ -6,5 +6,5 @@ Bumper Sumo Unity demosudur.
 * Oyun, tüm düşmanların elenmesi ve oyuncunun sağ kalması halinde veya oyuncunun elenmesi halinde bitmektedir.
 * Tüm kodlar yorumlarla açıklanmış ve Object-Oriented kurallarına bağlı kalınarak yazılmıştır. Ayrıca editörde düzenlenebilmesi için ayarlanmıştır.
 
-İyi eğlenceler,
+İyi eğlenceler dilerim,  
 Taha Kızmaz
