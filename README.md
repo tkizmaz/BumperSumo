@@ -7,4 +7,4 @@ Bumper Sumo Unity demosudur.
 * Tüm kodlar yorumlarla açıklanmış ve Object-Oriented kurallarına bağlı kalınarak yazılmıştır. Ayrıca editörde düzenlenebilmesi için ayarlanmıştır.
 
 İyi eğlenceler dilerim,  
-**Taha Kızmaz
+**Taha Kızmaz**
