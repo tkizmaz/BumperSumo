@@ -130,14 +130,14 @@ public class CarController : MonoBehaviour
         float currentSpeed = rigidBody.velocity.magnitude * 3.6f;
 
         //Checking if player holds the gas pedal.
-        if (isGasDown)
+        if (isGasDown || Input.GetKey(KeyCode.W))
         {
             //If gas pedal is down, add relative force.
             rigidBody.AddRelativeForce(Vector3.forward * tempSpeed * 10);
         }
 
         //Checking if player holds the brake pedal.
-        if (isBrakeDown)
+        if (isBrakeDown || Input.GetKey(KeyCode.S))
         {
             //If the car goes backwards, dividing speedMultiplier by divisor.
             tempSpeed = speedMultiplier / speedDivisor;
@@ -149,7 +149,7 @@ public class CarController : MonoBehaviour
         if(currentSpeed > 0)
         {
             //Checking if player holds the left turn button.
-            if (isTurnLeftDown)
+            if (isTurnLeftDown || Input.GetKey(KeyCode.A))
             {
                 
                 //Adding torque while turn left button is pressed and checking it if it is going forward or backwards .
@@ -160,7 +160,7 @@ public class CarController : MonoBehaviour
             }
 
             //Checking if player holds the right turn button.
-            if (isTurnRightDown)
+            if (isTurnRightDown || Input.GetKey(KeyCode.D))
             {
 
                 //Adding torque while turn left button is pressed and checking it if it is going forward or backwards .
