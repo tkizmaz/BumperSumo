@@ -11,6 +11,12 @@ Bumper Sumo Unity demosudur.
 * Tüm kod yorumlarla açıklanmış ve Object-Oriented kurallarına bağlı kalınarak yazılmıştır. Ayrıca editörde düzenlenebilmesi için ayarlanmıştır.
 * Tüm kodları Scripts klasörü içinde bulabilirsiniz.
 
+Oyunun videosuna aşağıdaki linkten ulaşabilirsiniz;
+https://streamable.com/ohty6o
+
+İyi eğlenceler dilerim,  
+**Taha Kızmaz**
+
 # EN
 * The friction of bumper cars was determined on real bumper cars.
 * The color of all enemy cars is chosen randomly at the beginning of each game. 
@@ -21,10 +27,8 @@ Bumper Sumo Unity demosudur.
 * All code is explained with comments and written according to Object-Oriented principles. It is also set so that it can be edited in the editor.
 * You can find all codes in Scripts file.
 
-Oyunun videosuna aşağıdaki linkten ulaşabilirsiniz;
 You can find the gameplay video link below;
 https://streamable.com/ohty6o
 
-İyi eğlenceler dilerim,  
 Have fun,
 **Taha Kızmaz**
